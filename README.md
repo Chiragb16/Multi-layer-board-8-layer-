@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="boared.jpeg" alt="HoneyGuard PCB" width="700"/>
+<img src="Board.jpeg" alt="HoneyGuard PCB" width="700"/>
 
 ### AI-Powered Beehive Monitoring & Honey Purity Detection Platform
 
